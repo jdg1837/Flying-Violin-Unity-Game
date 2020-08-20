@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/text.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/ghost_scenes/dungeon.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes_snake/GameScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scene/Main.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Hangman_game.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/main_game.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/help_button.unity
+  isLoaded: 0
+  isActive: 0
